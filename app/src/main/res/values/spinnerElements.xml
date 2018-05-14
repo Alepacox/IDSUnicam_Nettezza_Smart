@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_Elements">
+        <item>Vario</item>
+        <item>Umido</item>
+        <item>Carta</item>
+        <item>Plastica</item>
+        <item>Indifferenziato</item>
+    </string-array>
+</resources>
